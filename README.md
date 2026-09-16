@@ -8,7 +8,7 @@
 
 Готовую версию QuickGoogle можно скачать в разделе [Releases](../../releases).
 
-> Раздел Releases пока пуст. Первая готовая сборка появится здесь позже.
+> [Прямая ссылка v1.0.0](https://github.com/nivemoon/QuickGoogle/releases/download/v1.0.0/QuickGoogle-v1.0.0-windows-x64.zip)
 
 ## Возможности
 
