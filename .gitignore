@@ -1,0 +1,20 @@
+# Файлы сборки C/C++
+*.o
+*.obj
+*.a
+*.lib
+*.exp
+*.pdb
+*.ilk
+*.log
+
+# Локальные настройки редакторов
+.vscode/
+.idea/
+
+# Системные файлы Windows
+Thumbs.db
+Desktop.ini
+
+# Готовые сборки
+*.dll
